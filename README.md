@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Indo Scraper 🇮🇩
 
 Library Python untuk scraping website Indonesia dengan mudah dan aman. Dirancang khusus untuk domain Indonesia seperti `.id`, `.co.id`, `.go.id`, `.sch.id`, dan domain Indonesia lainnya.
@@ -434,6 +433,3 @@ Kontribusi sangat diterima! Silakan:
 ---
 
 **Dibuat dengan ❤️ untuk komunitas developer Indonesia**
-=======
-# indo-scraper
->>>>>>> 0cbe3a032a07d478c1b1a462705172de0d426e4e
