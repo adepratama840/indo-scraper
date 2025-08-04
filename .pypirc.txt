@@ -1,0 +1,7 @@
+[distutils]
+index-servers = pypi
+
+[pypi]
+repository = https://upload.pypi.org/legacy/
+username = __token__
+password = pypi-AgEIcHlwaS5vcmcCJGJkZjcyNTI2LTkwOTUtNGIyNi1hZDcxLTU0MWIxMjBiNjcyYgACKlszLCI1YjM5NTI4ZC1mOGE0LTQ5NDEtYmU0Ni0wMjViYjVjODEyN2IiXQAABiBk7nuYNP2zMQdPvfk3Bkq-dKTiCv210W_sdIm1h_hhoA
